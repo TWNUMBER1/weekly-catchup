@@ -6,6 +6,7 @@
    * https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/
 * Microservice 7/26
    * https://www.nginx.com/wp-content/uploads/2015/01/Building_Microservices_Nginx.pdf
+   * https://www.nginx.com/blog/introduction-to-microservices/
 * API design(Restful API) 7/26
    * http://www.restapitutorial.com/lessons/whatisrest.html
 * Database, NoSql vs SQL
