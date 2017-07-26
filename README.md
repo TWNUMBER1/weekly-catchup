@@ -13,3 +13,6 @@
 * Database, NoSql vs SQL
 * DIstributed System, CAP theory
 * 
+
+Ref: 
+* https://pdos.csail.mit.edu/6.824/schedule.html
