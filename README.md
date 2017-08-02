@@ -21,3 +21,6 @@ Ref:
 
 Sample code for NYC-Restaurant-Week:
 * https://github.com/nadrane/NYC-Restaurant-Week
+
+Docker, Kubernete and apache-mesos
+* https://mesosphere.com/blog/docker-vs-kubernetes-vs-apache-mesos/
