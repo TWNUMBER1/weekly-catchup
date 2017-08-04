@@ -37,3 +37,6 @@ React
 * Server side rendering http://andrewhfarmer.com/server-side-render/
 * React + Express(webserver) https://daveceddia.com/create-react-app-express-backend/
 * React + Meteor(webserver) https://guide.meteor.com/react.html
+
+API Gateway
+* Kong https://getkong.org/
