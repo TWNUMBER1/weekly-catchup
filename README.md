@@ -24,3 +24,11 @@ Sample code for NYC-Restaurant-Week:
 
 Docker, Kubernete and apache-mesos
 * https://mesosphere.com/blog/docker-vs-kubernetes-vs-apache-mesos/
+
+
+NYC open data
+* https://opendata.cityofnewyork.us/data/
+Restaurant api source
+* https://developers.zomato.com/api
+* https://www.yelp.com/developers/documentation/v2/overview
+
