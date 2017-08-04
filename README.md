@@ -28,7 +28,12 @@ Docker, Kubernete and apache-mesos
 
 NYC open data
 * https://opendata.cityofnewyork.us/data/
+
 Restaurant api source
 * https://developers.zomato.com/api
 * https://www.yelp.com/developers/documentation/v2/overview
 
+React 
+* Server side rendering http://andrewhfarmer.com/server-side-render/
+* React + Express(webserver) https://daveceddia.com/create-react-app-express-backend/
+* React + Meteor(webserver) https://guide.meteor.com/react.html
