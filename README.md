@@ -39,4 +39,4 @@ React
 * React + Meteor(webserver) https://guide.meteor.com/react.html
 
 API Gateway
-* Kong https://getkong.org/
+* Kong https://getkong.org/ http://www.aichengxu.com/other/2407117.htm
