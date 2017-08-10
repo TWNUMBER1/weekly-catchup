@@ -10,8 +10,8 @@
    * https://www.nginx.com/blog/introduction-to-microservices/
 * API design(Restful API) 7/26 (done)
    * http://www.restapitutorial.com/lessons/whatisrest.html
-* Webserver(Flask, gunicorn), Yelp API 8/3
-* Pycharm Reno, Environment setup Roger
+* Webserver(Flask, gunicorn), Yelp API 8/3 (done)
+* Respful API/Flask, Crawler work shop 8/9
 * Database, NoSql vs SQL
 * DIstributed System, CAP theory
 * 
@@ -40,3 +40,6 @@ React
 
 API Gateway
 * Kong https://getkong.org/ http://www.aichengxu.com/other/2407117.htm
+
+Service Discovery
+* http://microservices.io/patterns/client-side-discovery.html
