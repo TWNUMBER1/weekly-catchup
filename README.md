@@ -12,8 +12,10 @@
    * http://www.restapitutorial.com/lessons/whatisrest.html
 * Webserver(Flask, gunicorn), Yelp API 8/3 (done)
 * Respful API/Flask, Crawler work shop 8/9
+* Mesos/Marathon, Kubernete for managing service/containers
+* Service Discovery/Service Registry
 * Database, NoSql vs SQL
-* DIstributed System, CAP theory
+* Distributed System, CAP theory
 * 
 
 Ref: 
