@@ -45,3 +45,4 @@ API Gateway
 
 Service Discovery
 * http://microservices.io/patterns/client-side-discovery.html
+* http://blog.arungupta.me/zookeeper-microservice-registration-discovery/
