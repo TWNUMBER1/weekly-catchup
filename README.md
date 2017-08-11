@@ -46,3 +46,8 @@ API Gateway
 Service Discovery
 * http://microservices.io/patterns/client-side-discovery.html
 * http://blog.arungupta.me/zookeeper-microservice-registration-discovery/
+
+NY MTA API
+* http://web.mta.info/developers/developer-data-terms.html#data
+* https://github.com/google/gtfs-realtime-bindings/tree/master/python
+
