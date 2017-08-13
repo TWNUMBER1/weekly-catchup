@@ -26,6 +26,7 @@ Sample code for NYC-Restaurant-Week:
 
 Docker, Kubernete and apache-mesos
 * https://mesosphere.com/blog/docker-vs-kubernetes-vs-apache-mesos/
+* https://gcpug-tw.gitbooks.io/kuberbetes-in-action/content/kubernetes_concept.html
 
 
 NYC open data
